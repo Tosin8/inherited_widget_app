@@ -30,8 +30,11 @@ class HomePage extends StatelessWidget {
       appBar: AppBar(
         title: const Text(title),
       ),
-      body: Container(
-        child:Text('Tap Me'), 
+      body: GestureDetector(
+      child: Container(
+        color: Colors.white, 
+        child:Text('Tap Me'),
+        ), 
     );
   }
 }
