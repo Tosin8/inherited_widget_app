@@ -1,0 +1,1 @@
+Inherited Widget is useful for holding onto state that descendants can then use. 
