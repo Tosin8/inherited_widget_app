@@ -1,1 +1,4 @@
 Inherited Widget is useful for holding onto state that descendants can then use. 
+
+First ToDo: 
+* to display the curretn time on the scaffold appbar and in a text widget respectively. 
